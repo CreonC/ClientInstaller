@@ -20,7 +20,7 @@ copy C:\Users\%username%\appdata\roaming\.minecraft\install\mods C:\Users\%usern
 echo copying mods complete
 echo installing client
 cd C:\Users\%username%\appdata\roaming\.minecraft\versions
-rem feel free to remame the line below
+rem feel free to rename the line below
 md 1.19.2-CreonC-Mod-Client
 copy C:\Users\%username%\appdata\roaming\.minecraft\install\mcinstall\1.17-CreonC-Mod-Client C:\Users\%username%\appdata\roaming\.minecraft\versions\1.17-CreonC-Mod-Client
 rem clear the screen
